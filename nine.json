@@ -1,0 +1,100 @@
+{
+  "title": "Government planning and control",
+  "paragraphs": [
+    {
+      "context": "Wayve plans to expand beyond London as it has tested its technology in five other cities in the UK. Artificial intelligence expert Amar Shah founded the company alongside Alex Kendal in London in 2017. Shah led the firm as its CEO until 2020.",
+      "qas": [
+        {
+          "question": "What was setup?",
+          "id": "q1",
+          "answers": [
+            {
+              "text": "Wayve",
+              "answer_start": 0
+            }
+          ]
+        },
+        {
+          "question": "Who founded Wayve?",
+          "id": "q2",
+          "answers": [
+            {
+              "text": "Amar Shah and Alex Kendal",
+              "answer_start": 84
+            }
+          ]
+        },
+        {
+          "question": "Who is the artificial intelligence expert?",
+          "id": "q3",
+          "answers": [
+            {
+              "text": "Amar Shah",
+              "answer_start": 59
+            }
+          ]
+        },
+        {
+          "question": "When was the company founded?",
+          "id": "q4",
+          "answers": [
+            {
+              "text": "2017",
+              "answer_start": 153
+            }
+          ]
+        },
+        {
+          "question": "Where does Wayve plan to expand?",
+          "id": "q5",
+          "answers": [
+            {
+              "text": "beyond London",
+              "answer_start": 18
+            }
+          ]
+        },
+        {
+          "question": "What was founded?",
+          "id": "q6",
+          "answers": [
+            {
+              "text": "the company",
+              "answer_start": 107
+            }
+          ]
+        },
+        {
+          "question": "Where has Wayve tested its technology?",
+          "id": "q7",
+          "answers": [
+            {
+              "text": "in five other cities in the UK",
+              "answer_start": 43
+            }
+          ]
+        },
+        {
+          "question": "Who was the CEO of the company?",
+          "id": "q8",
+          "answers": [
+            {
+              "text": "Shah",
+              "answer_start": 146
+            }
+          ]
+        },
+        {
+          "question": "What year did Shah leave the firm?",
+          "id": "q9",
+          "answers": [
+            {
+              "text": "2020",
+              "answer_start": 170
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
